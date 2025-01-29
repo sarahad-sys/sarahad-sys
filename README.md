@@ -4,7 +4,7 @@
 I'm passionate about **Mathematical Biology, Data Science, Machine Learning, Algorithm Optimization, Financial Modeling, and Time Series Analysis**. I also have a strong background in **Data Analytics**, with experience in statistical modeling and computational techniques.
 
 ## 🌱 Currently Learning
-- **Mathematical and Computational Biology (MBF)**
+- **Mathematical and Computational Biology**
 - Advanced **Machine Learning Algorithms**
 - **Bayesian Methods in Data Science**
 - **Airflow 3 and Security Dependencies**
