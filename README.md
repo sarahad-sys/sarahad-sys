@@ -7,7 +7,7 @@ I'm passionate about **Mathematical Biology, Data Science, Machine Learning, Alg
 - **Mathematical and Computational Biology**
 - Advanced **Machine Learning Algorithms**
 - **Bayesian Methods in Data Science**
-- **Airflow 3 and Security Dependencies**
+
 
 ## 💞️ Collaboration
 I'm looking to collaborate on **Python-related projects**, especially in:
