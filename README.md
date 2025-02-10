@@ -3,13 +3,8 @@
 ## 👀 Interests
 I'm passionate about **Mathematical Biology, Data Science, Machine Learning, Algorithm Optimization, Financial Modeling, and Time Series Analysis**. I also have a strong background in **Data Analytics**, with experience in statistical modeling and computational techniques.
 
-## 🌱 Currently Learning
-- **Mathematical and Computational Biology**
-- Advanced **Machine Learning Algorithms**
-- **Bayesian Methods in Data Science**
 
-
-## 💞️ Collaboration
+## 💞Collaboration
 I'm looking to collaborate on **Python-related projects**, especially in:
 - **Data Science & AI**
 - **Mathematical and Computational Modeling**
